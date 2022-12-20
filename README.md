@@ -31,20 +31,19 @@
 
 2.  Спроектировать и разработать приложения.
 
-*Будет добавлено позже*
+[Ссылка на приложение](https://react-marvel-explorer.netlify.app/characters)
 
 
 ## Лабораторная работа №3
 
-1.  Настроить сеть в Сisco Packet Tracer.
+Настроить сеть в Сisco Packet Tracer.
 
-*Будет добавлено позже*
+[Ссылка на отчет](https://github.com/ReptiLe8086/IT_Labs/tree/main/Lab3)
 
-2.  Отчет по лабораторной работе доступен по ссылке:
-
-*Будет добавлено позже*
 
 ## Подготовка к экзамену
 ### Билет № 14
 
 Ответ на экзаменационный билет: [Билет №14](https://github.com/stankin/inet-2022/wiki/exam14)
+
+[Коммиты](https://github.com/stankin/inet-2022/wiki/exam14/_history)
