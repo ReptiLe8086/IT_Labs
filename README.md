@@ -46,4 +46,4 @@
 
 Ответ на экзаменационный билет: [Билет №14](https://github.com/stankin/inet-2022/wiki/exam14)
 
-[Коммиты](https://github.com/stankin/inet-2022/wiki/exam14/_history)
+[Коммиты](https://github.com/stankin/inet-2022/wiki/exam14/_compare/239c95761b22f7a2e36a07d12844886979587c48...8f869cbaa4292bb3f839258f76f560554e9d978d)
